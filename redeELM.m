@@ -52,3 +52,6 @@ for i=1:17
     str = ['Acuracia obtida: ' num2str(acuracia(i)) ' %'];
     disp(str); %exibe a Acuracia obtida
 end
+
+str = ['Acuracia media obtida: ' num2str(mean(acuracia)) ' %'];
+disp(str); %exibe a Acuracia obtida
