@@ -2,7 +2,6 @@
 # Created by https://www.gitignore.io/api/data,matlab
 
 ### Data ###
-*.csv
 *.dat
 *.efx
 *.gbr
